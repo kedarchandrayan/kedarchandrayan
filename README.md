@@ -11,6 +11,10 @@ I'm passionate about contributing to open-source projects, particularly in AI, w
 Sirji is a Visual Studio Code extension acting as an AI-powered software development agent. It serves as a comprehensive virtual developer, equipped with agents dedicated to planning, coding, researching, and project execution. Sirji expertly handles a wide range of tasks from initiating new projects to enhancing or debugging existing ones, including writing test cases. It intelligently interfaces with VS Code's Editor, Terminal, and Project Explorer to streamline development workflows. Users engage with Sirji through an interactive chat, submitting problems, and providing feedback. A standout feature is Sirji's ability to set up and configure local development environments, handling system and language-specific dependencies before executing code, ensuring a seamless development experience.
 
 - Repo: [Sirji](https://github.com/sirji-ai/sirji)
+- PyPI
+  - [`sirji-agents`](https://pypi.org/project/sirji-agents/) <img src="https://img.shields.io/pypi/v/sirji-agents.svg" alt="Sirji Agents on PyPI" height="15">
+  - [`sirji-messages`](https://pypi.org/project/sirji-messages/) <img src="https://img.shields.io/pypi/v/sirji-messages.svg" alt="Sirji Messages on PyPI" height="15">
+  - [`sirji-tools`](https://pypi.org/project/sirji-tools/) <img src="https://img.shields.io/pypi/v/sirji-tools.svg" alt="Sirji Tools on PyPI" height="15">
 
 ### Needle in a Haystack
 
