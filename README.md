@@ -47,7 +47,7 @@ I have a terrace garden at home that I enjoy nurturing, but watering it while aw
 
 Watch on YouTube: <a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank">https://www.youtube.com/watch?v=_fPTQfk2qP4</a>
 
-<a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank"><img src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/82181e7f-4443-4894-b2d0-eeafbd735b97" alt="DIY Automated Watering Solution"></a>
+<a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank"><img src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/c02cd145-bd5a-443e-a155-067faa20e05d" alt="DIY Automated Watering Solution"></a>
 
 ### Sanitize HTML NPM
 TODO - add info
