@@ -42,6 +42,13 @@ AI assistant for generating GraphQL built using OpenAI chat completions API.
 - Production URL: [Airstack API Studio](https://app.airstack.xyz/api-studio)
 - Blog: [Enhancing Performance of an AI Assistant: A Journey Towards Efficiency and Accuracy](https://truesparrow.com/blog/enhancing-performance-of-an-ai-assistant/)
 
+### DIY Automated Watering Solution
+I have a terrace garden at home that I enjoy nurturing, but watering it while away—especially during summer—posed a challenge. To address this, I developed a DIY automated watering solution.
+
+Watch on YouTube: <a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank">https://www.youtube.com/watch?v=_fPTQfk2qP4</a>
+
+<a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank"><img src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/82181e7f-4443-4894-b2d0-eeafbd735b97" alt="DIY Automated Watering Solution"></a>
+
 ### Sanitize HTML NPM
 TODO - add info
 
