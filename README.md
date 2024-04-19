@@ -45,9 +45,8 @@ AI assistant for generating GraphQL built using OpenAI chat completions API.
 ### DIY Automated Watering Solution
 I have a terrace garden at home that I enjoy nurturing, but watering it while away—especially during summer—posed a challenge. To address this, I developed a DIY automated watering solution.
 
-Watch on YouTube: <a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank">https://www.youtube.com/watch?v=_fPTQfk2qP4</a>
-
-<a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank"><img src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/c02cd145-bd5a-443e-a155-067faa20e05d" alt="DIY Automated Watering Solution"></a>
+Watch on YouTube:</br>
+<a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank"><img src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/c02cd145-bd5a-443e-a155-067faa20e05d" alt="DIY Automated Watering Solution" height="100px"></a>
 
 ### Sanitize HTML NPM
 TODO - add info
