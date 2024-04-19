@@ -8,7 +8,7 @@ I'm passionate about contributing to open-source projects, particularly in AI, w
 
 ### Sirji: Open Source AI Software Development Agent
 
-Sirji is a Visual Studio Code extension acting as an AI-powered software development agent. It serves as a comprehensive virtual developer, equipped with agents dedicated to planning, coding, researching, and project execution. Sirji expertly handles a wide range of tasks from initiating new projects to enhancing or debugging existing ones, including writing test cases. It intelligently interfaces with VS Code's Editor, Terminal, and Project Explorer to streamline development workflows. Users engage with Sirji through an interactive chat, submitting problems, and providing feedback. A standout feature is Sirji's ability to set up and configure local development environments, handling system and language-specific dependencies before executing code, ensuring a seamless development experience.
+Sirji is a Visual Studio Code extension acting as an AI-powered software development agent.
 
 - Repo: [Sirji](https://github.com/sirji-ai/sirji)
 - PyPI
