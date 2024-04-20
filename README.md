@@ -6,73 +6,21 @@ I'm passionate about contributing to open-source projects, particularly in AI, w
 
 ## Notable Projects
 
-### Sirji: Open Source AI Software Development Agent
+| Project     | Details & Links |
+|-------------|-----------------|
+| **Sirji: Open Source AI Software Development Agent** | Sirji is a Visual Studio Code extension acting as an AI-powered software development agent. <br>**Repo**: [Sirji](https://github.com/sirji-ai/sirji) <br>**PyPI**: <br> • [`sirji-agents`](https://pypi.org/project/sirji-agents/) ![Sirji Agents on PyPI](https://img.shields.io/pypi/v/sirji-agents.svg) <br> • [`sirji-messages`](https://pypi.org/project/sirji-messages/) ![Sirji Messages on PyPI](https://img.shields.io/pypi/v/sirji-messages.svg) <br> • [`sirji-tools`](https://pypi.org/project/sirji-tools/) ![Sirji Tools on PyPI](https://img.shields.io/pypi/v/sirji-tools.svg) |
+| **Needle in a Haystack** | Actively enhancing and co-maintaining this benchmarking technique for LLMs, developed by [Greg Kamradt](https://github.com/gkamradt). <br>**Repo**: [Needle in a Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) <br>**PyPi**: [needlehaystack](https://pypi.org/project/needlehaystack/) <br>**Blogs**: <br> • [Co-Maintaining NIAH: A Journey in Open Source and Model Benchmarking](https://truesparrow.com/blog/niah-journey-in-open-source-and-model-benchmarking/) <br> • Multi-needle NIAH and PyPi packaging (coming soon). |
+| **Prompt Evaluator** | An open-source visual tool for Product Managers to assess prompt performance using OpenAI evals. <br>**Repo(s)**: <br> • [Frontend](https://github.com/TrueSparrowSystems/prompt-eval-fe) <br> • [Backend](https://github.com/TrueSparrowSystems/prompt-eval-be) <br>**Blog**: [An OpenSource Prompt Evaluator for Product Managers](https://truesparrow.com/blog/prompt-evaluator-for-product-managers/) |
+| **AI GraphQL Assistant** | An AI assistant for generating GraphQL built using OpenAI chat completions API. <br>**Production URL**: [Airstack API Studio](https://app.airstack.xyz/api-studio) <br>**Blog**: [Enhancing Performance of an AI Assistant: A Journey Towards Efficiency and Accuracy](https://truesparrow.com/blog/enhancing-performance-of-an-ai-assistant/) |
+| **DIY Automated Watering Solution** | Developed a DIY automated watering solution for my terrace garden. <br>**Watch on YouTube**: [DIY Automated Watering Solution](https://www.youtube.com/watch?v=_fPTQfk2qP4) |
+| **Whisper Chain** | A social experiment on Lens Protocol showcasing chain mutations. <br>**Repos**: <br> • [Frontend](https://github.com/TrueSparrowSystems/whisper-chain-fe) <br> • [Backend](https://github.com/TrueSparrowSystems/whisper-chain-be) <br>**Production URL**: [whisperchain.xyz](https://whisperchain.xyz/) <br>**Event**: [Built at ETHIndia 2022](https://devfolio.co/projects/whisper-chain-53ed) |
+| **Sanitize HTML NPM** | TODO - add info |
+| **NFT or NOT** | TODO - add info |
+| **Slackmin** | TODO - add info |
+| **OST** | TODO - add info |
+| **OpenST** | TODO - add info |
 
-Sirji is a Visual Studio Code extension acting as an AI-powered software development agent.
-
-- Repo: [Sirji](https://github.com/sirji-ai/sirji)
-- PyPI
-  - [`sirji-agents`](https://pypi.org/project/sirji-agents/) <img src="https://img.shields.io/pypi/v/sirji-agents.svg" alt="Sirji Agents on PyPI" height="15">
-  - [`sirji-messages`](https://pypi.org/project/sirji-messages/) <img src="https://img.shields.io/pypi/v/sirji-messages.svg" alt="Sirji Messages on PyPI" height="15">
-  - [`sirji-tools`](https://pypi.org/project/sirji-tools/) <img src="https://img.shields.io/pypi/v/sirji-tools.svg" alt="Sirji Tools on PyPI" height="15">
-
-### Needle in a Haystack
-
-I'm actively contributing, enhancing, and co-maintaining Needle in a Haystack (NIAH) alongwith [Greg Kamradt](https://github.com/gkamradt), the original author. NIAH is a technique for benchmarking Large Language Models (LLMs), where the model's goal is to find specific information (the "needle") within a larger context (the "haystack").
-
-Initially introduced by Greg for GPT-4 and Claude 2.1, this evaluation has gained widespread recognition, being adopted by Google for [Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#performance:~:text=Gemini%201.5%20Pro%20maintains,as%201%20million%20tokens) and by Anthropic for [Claude 3](https://www.anthropic.com/news/claude-3-family#:~:text=the%20'needle%20in%20a%20haystack'%20(niah)%20evaluation%20measures%20a%20model's%20ability%20to%20accurately%20recall%20information%20from%20a%20vast%20corpus%20of%20data).
-
-- Repo: [Needle in a Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
-- PyPi: [needlehaystack](https://pypi.org/project/needlehaystack/)
-- Blogs:
-  - [Co-Maintaining NIAH: A Journey in Open Source and Model Benchmarking](https://truesparrow.com/blog/niah-journey-in-open-source-and-model-benchmarking/)
-  - [Multi-needle NIAH and PyPi packaging] coming soon.
-
-### Prompt Evaluator
-Prompt Evaluator is an open-source visual tool tailored for Product Managers, built using OpenAI evals, to assess prompt performance effectively. Users can experiment with prompt variations, select OpenAI models, and evaluation strategies seamlessly.
-
-- Repo(s):
-  - [Frontend](https://github.com/TrueSparrowSystems/prompt-eval-fe)
-  - [Backend](https://github.com/TrueSparrowSystems/prompt-eval-be)
-- Blog: [An OpenSource Prompt Evaluator for Product Managers](https://truesparrow.com/blog/prompt-evaluator-for-product-managers/)
-
-### AI GraphQL Assistant
-AI assistant for generating GraphQL built using OpenAI chat completions API.
-
-- Production URL: [Airstack API Studio](https://app.airstack.xyz/api-studio)
-- Blog: [Enhancing Performance of an AI Assistant: A Journey Towards Efficiency and Accuracy](https://truesparrow.com/blog/enhancing-performance-of-an-ai-assistant/)
-
-### DIY Automated Watering Solution
-I have a terrace garden at home that I enjoy nurturing, but watering it while away—especially during summer—posed a challenge. To address this, I developed a DIY automated watering solution.
-
-Watch on YouTube:</br>
-<a href="https://www.youtube.com/watch?v=_fPTQfk2qP4" target="_blank"><img src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/c02cd145-bd5a-443e-a155-067faa20e05d" alt="DIY Automated Watering Solution" height="100px"></a>
-
-### Sanitize HTML NPM
-TODO - add info
-
-### Whisper Chain
-Whisper Chain is a social experiment on Lens Protocol. Users experience chain mutations, akin to the game of Chinese whispers. See how the original image changes as it passes along the chain.
-
-- Repos:
-  - [Frontend](https://github.com/TrueSparrowSystems/whisper-chain-fe)
-  - [Backend](https://github.com/TrueSparrowSystems/whisper-chain-be)
-- Production URL: [whisperchain.xyz](https://whisperchain.xyz/)
-- [Built at ETHIndia 2022](https://devfolio.co/projects/whisper-chain-53ed)
-
-### NFT or NOT
-TODO - add info
-
-### Slackmin
-TODO - add info
-
-### OST
-TODO - add info
-
-### OpenST
-TODO - add info
-
-You can find more contributions on our company GitHub: [TrueSparrowSystems](https://github.com/TrueSparrowSystems)
+You can find more contributions on our company GitHub: [True Sparrow Systems](https://github.com/TrueSparrowSystems)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kedar-chandrayan/)
