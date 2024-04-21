@@ -21,6 +21,9 @@ I'm passionate about contributing to open-source projects, particularly in AI, w
 | **Slackmin**<br>**Role**: Owner<br><br> • Streamlines Slack integration for Node.js applications.<br> • Enables creation of custom tools for managing content, orders, reports, customers, etc.<br> • Features slash commands, interactive components, message formatting, and custom modals.<br> • Supports sending critical event alerts and notifications via Slack. | **Repo**: [Slackmin](https://github.com/TrueSparrowSystems/slackmin) <br><br>**NPM**: [@truesparrow/slackmin ![npm version](https://img.shields.io/npm/v/@truesparrow/slackmin.svg?style=flat)](https://www.npmjs.com/package/@truesparrow/slackmin)<br><br>**Blog**: [Slackmin - #1 on Product Hunt](https://truesparrow.com/blog/slackmin-producthunt-launch/)<br><br>[<img height="60px" alt="Slackmin on Product Hunt" src="https://github.com/kedarchandrayan/kedarchandrayan/assets/7627517/d95b023d-99a3-4a95-9d38-c6e3004539fd">](https://www.producthunt.com/products/slackmin)|
 | **UniCache**<br>**Role**: Contributor<br><br> • UniCache is an NPM package that provides singleton interface and behavior for Memcached, Redis and In-memory caching. | **Repo**: [UniCache](https://github.com/TrueSparrowSystems/UniCache)<br><br>**NPM**: [@truesparrow/unicache ![npm version](https://img.shields.io/npm/v/@truesparrow/unicache.svg?style=flat)](https://www.npmjs.com/package/@truesparrow/unicache)|
 
+## Publications
+- [Efficient Broadcast Monitoring using Audio Change Detection. IICAI 2011: 942-955](https://www.ee.iitb.ac.in/course/~daplab/publications/Rohan_Broadcast%20Monitor_iicai2011.pdf)
+
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kedar-chandrayan/)
 - [Twitter](https://twitter.com/TechieKedar)
