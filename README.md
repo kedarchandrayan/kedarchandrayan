@@ -6,10 +6,6 @@ I'm passionate about contributing to open-source projects, particularly in AI, w
 
 ## Notable Projects
 
-
-
-An agentic AI framework that accelerates solving software problems for developers.
-
 | Project     | Links |
 |-------------|-----------------|
 | **Sirji: Open Source Virtual AI Software Developer**<br>**Role:** Owner<br><br> • Sirji is an agentic AI framework that accelerates solving software problems for developers.<br> • Sirji uses recipes as well as the skills published by the agents to effectively orchestrate task assignments and agent invocations. |**Repo**: [Sirji](https://github.com/sirji-ai/sirji)<br><br>**Roadmap**: [Sirji Roadmap](https://github.com/orgs/sirji-ai/projects/5/views/1)<br><br>**VS Code Marketplace**: [Sirji](https://marketplace.visualstudio.com/items?itemName=TrueSparrow.sirji)<br><br>**PyPI**: <br> • [`sirji-agents`](https://pypi.org/project/sirji-agents/) ![Sirji Agents on PyPI](https://img.shields.io/pypi/v/sirji-agents.svg) <br> • [`sirji-messages`](https://pypi.org/project/sirji-messages/) ![Sirji Messages on PyPI](https://img.shields.io/pypi/v/sirji-messages.svg) <br> • [`sirji-tools`](https://pypi.org/project/sirji-tools/) ![Sirji Tools on PyPI](https://img.shields.io/pypi/v/sirji-tools.svg)<br><br>**Blogs**: [Build in public series](https://truesparrow.com/blog/tag/sirji/)<br><br>**YouTube**: [Sirji AI](https://www.youtube.com/@Sirji-ai)|
