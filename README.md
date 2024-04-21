@@ -1,8 +1,6 @@
 # Hi there, I'm Kedar! 👋
 
-I'm Kedar, a Senior Director of Engineering at [True Sparrow](https://truesparrow.com/) with 15 years of product development experience. My expertise spans from individual contributions to managing teams of all sizes.
-
-I'm passionate about contributing to open-source projects, particularly in AI, web3, and security. At True Sparrow, we not only bring client ideas to production-quality code but also actively support open-source initiatives.
+I'm Kedar, a Senior Director of Engineering at [True Sparrow](https://truesparrow.com/) with 15 years of product development experience. My expertise spans from individual contributions to orchestrating teams of all sizes. I'm passionate about contributing to open-source projects, particularly in AI, web3, and security. At True Sparrow, we not only bring client ideas to production-quality code but also actively support open-source initiatives.
 
 ## Notable Projects
 
