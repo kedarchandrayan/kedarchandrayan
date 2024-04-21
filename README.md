@@ -20,7 +20,9 @@ I'm Kedar, a Senior Director of Engineering at [True Sparrow](https://truesparro
 | **UniCache**<br>**Role**: Contributor<br><br> • UniCache is an NPM package that provides singleton interface and behavior for Memcached, Redis and In-memory caching. | **Repo**: [UniCache](https://github.com/TrueSparrowSystems/UniCache)<br><br>**NPM**: [@truesparrow/unicache ![npm version](https://img.shields.io/npm/v/@truesparrow/unicache.svg?style=flat)](https://www.npmjs.com/package/@truesparrow/unicache)|
 
 ## Publications
-- [Efficient Broadcast Monitoring using Audio Change Detection. IICAI 2011: 942-955](https://www.ee.iitb.ac.in/course/~daplab/publications/Rohan_Broadcast%20Monitor_iicai2011.pdf)
+Rohan Shah, Kedar Chandrayan, and Preeti Rao: Efficient Broadcast Monitoring using Audio Change Detection. In: Proceedings of the Fifth Indian International Conference on Artificial Intelligence, pp.942-955 (2011).
+- [Department of Electrical Engineering, IIT Bombay](https://www.ee.iitb.ac.in/course/~daplab/publications/Rohan_Broadcast%20Monitor_iicai2011.pdf)
+- [Semantic Scholar](https://www.semanticscholar.org/paper/Efficient-Broadcast-Monitoring-using-Audio-Change-Shah-Chandrayan/5ae7abd065e0dc18382f4a8388539cb9cf4b2651)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/kedar-chandrayan/)
